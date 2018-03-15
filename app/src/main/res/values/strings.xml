@@ -6,4 +6,7 @@
     <string name="financiar">FINANCIAR</string>
     <string name="monto">$7.963.420</string>
     <string name="fecha">Mar. 15 - 22 , 2018</string>
+    <string name="ingresos">Ingresos</string>
+    <string name="procentajeZ">+13%</string>
+    <string name="valor_ingreso">$1.173.000</string>
 </resources>
